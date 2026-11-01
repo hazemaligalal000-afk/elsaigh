@@ -1,0 +1,21 @@
+{
+  "ADD_TO_CART": "Add to cart",
+  "DELETE": "Delete",
+  "FOLLOWERS": "{number} followers",
+  "HANG_ON": "Please hang on while we process your feed. This may take a while.",
+  "PAUSE_SLIDESHOW": "Pause slideshow",
+  "PLACE": "Place",
+  "PLAY_SLIDESHOW": "Play slideshow",
+  "PRODUCT_FROM_IG": "Instagram tag",
+  "REVIEWS": "{number} reviews",
+  "SHOW_PRODUCTS_MESSAGE": "Want tagged products to show up here?",
+  "SHOP_NOW": "Shop now",
+  "SOLD_OUT": "Sold out",
+  "TAG_COLLECTIONS": "Tag collections",
+  "TAG_PRODUCTS": "Tag products",
+  "TAGGED_BY": "Tagged by {username}",
+  "UPGRADE": "Upgrade",
+  "VIEW_ON_INSTAGRAM": "View on Instagram",
+  "PRODUCT_PHOTOS": "Product photos",
+  "VIEW_PRODUCT_PHOTOS": "View {number} product photos"
+}
